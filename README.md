@@ -25,7 +25,6 @@ Full relational database built from scratch for an ecommerce business.
 - RFM customer segmentation (Recency, Frequency, Monetary scoring)
 - Window functions for running totals, rankings, and period-over-period growth
 - Stored procedures for automated reporting
-- 41 commits — iterative, real-world development
 
 **Stack:** MySQL · SQL · Data Modeling
 
