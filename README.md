@@ -1,6 +1,6 @@
 # Hi, I'm Fady Ibrahim 👋
 
-**Operations & Business Analyst** — I spent 2.5 years running inventory worth 30M+ EGP across 10,000+ SKUs at one of Egypt's leading ecommerce retailers. That experience taught me that every stockout, every replenishment delay, and every margin problem has a data story behind it.
+**Operations & Business Analyst** — I spent 1.5 years running inventory worth 30M+ EGP across 10,000+ SKUs at one of Egypt's leading ecommerce retailers. That experience taught me that every stockout, every replenishment delay, and every margin problem has a data story behind it.
 
 Now I build the tools to tell those stories: SQL databases, Power BI dashboards, and Excel models that turn operational chaos into clear decisions.
 
