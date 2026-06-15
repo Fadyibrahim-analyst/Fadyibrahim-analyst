@@ -48,13 +48,6 @@ End-to-end supply chain analytics project built from real operational experience
 
 **Stack:** MySQL · Excel · Power BI · DAX
 
----
-
-## 📈 What I'm Working On
-
-- 📦 Building a Supply Chain KPI Dashboard using real-world supply chain metrics (OTIF, Fill Rate, Days of Stock)
-- 📚 Studying for Microsoft PL-300 (Power BI Data Analyst Associate)
-- 🔗 Connecting SQL analysis to Python for deeper statistical insights
 
 ---
 
